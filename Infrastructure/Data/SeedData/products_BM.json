@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Bolsa Couro Bege Marrom",
+    "Description": "Bolsa sem alça de couro bege com detalhes marrom",
+    "Price": 1300,
+    "PictureUrl": "images/products/Bolsa2Burberry.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Bolsa Preta",
+    "Description": "Bolsa sem alça de couro preto intenso",
+    "Price": 1200,
+    "PictureUrl": "images/products/BolsaBurberry.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Bolsa Vermelha",
+    "Description": "Bolsa sem alça de tecido vermelho intenso",
+    "Price": 1500,
+    "PictureUrl": "images/products/BolsaGucci.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Camisa Rosa Xadrez",
+    "Description": "Camisa Feminina Xadrez Rosa Claro",
+    "Price": 1500,
+    "PictureUrl": "images/products/BlusaChanel.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Blusa Colorida",
+    "Description": "Blusa Colorida com diversas estampas",
+    "Price": 1300,
+    "PictureUrl": "images/products/CamisaGucci.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Conjunto Xadrez",
+    "Description": "Conjunto com Blusa e Calça Xadrez com detalhe cinza e preto",
+    "Price": 3300,
+    "PictureUrl": "images/products/Blusa2Gucci.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  }
+]
